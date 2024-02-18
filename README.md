@@ -1,3 +1,3 @@
 # Simple-Converter
-JetBrain hyperskill project
-path: Introduction to Command Line and Unix Shell
+##JetBrain hyperskill project
+##path: Introduction to Command Line and Unix Shell
